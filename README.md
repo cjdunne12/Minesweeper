@@ -41,10 +41,3 @@ Represents a tile containing a mine. It extends `Square` and handles drawing a m
 ### NumberSquare
 
 Represents a tile that does not contain a mine. It stores the number of neighboring mines and displays that number when the tile is uncovered.
-
-## Technologies
-
-- Java
-- Java Swing
-- AWT Graphics
-- Coded on Eclipse IDE
